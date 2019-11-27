@@ -1,4 +1,4 @@
 class employee
 {
-  System
+  System.out.println
 }
